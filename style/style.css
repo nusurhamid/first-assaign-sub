@@ -1,0 +1,225 @@
+/* font link */
+.fira-sans {
+    font-family: "Fira Sans", serif;
+    font-weight:normal;
+    font-style: normal;
+}
+/* style for everyone */
+.whole-back{
+    background-color: #F5F5F5;
+}
+
+.green-btn{
+    background-color: #006A50;
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 34px 17px;
+
+    border-radius: 8px;
+    font-weight: 600;
+    border-color: none;
+    border: none;
+}
+.black-color{
+            color: #0E0E0E;
+            font-weight: 700;
+            font-size: 24px;
+            
+}
+.margin{
+    margin-left: 160px;
+    margin-right: 160px;
+}
+.green-back{
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+.descrip{
+    color:rgba(14, 14, 14, 0.23);
+
+}
+/* style for header */
+header nav div{
+    font-size: 32px;
+    
+}
+nav button{
+    color: #006A50;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #F5F5F5;
+    border-color: #006A50;
+}
+nav{
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    margin-bottom: 38px;
+}
+/* banner style */
+.banner-title{
+    font-weight: 700;
+    font-size: 56px;
+    color: rgba(14, 14, 14, 1);
+    margin-bottom: 24px;
+    margin-right: 24px;
+    margin-top: 16px;
+    max-width: 622px;
+    
+}
+.banner{
+    display: flex;
+    padding-left: 59.5px;
+    
+     max-width: 100%;
+    max-height: fit-content;
+    justify-content: space-between;
+    padding: 80px 80px 100px 100px;
+    
+    margin-top: 20px;
+    margin-bottom: 80px;
+    overflow: hidden;
+}
+.banner-pad{
+    padding-top: 160px;
+    padding-bottom: 160px;
+}
+.hero{
+    
+    padding-right: 59.5px;
+    width: 475px;
+    height: 400px;
+    margin-left: 24px;
+    
+}
+/* piller section */
+.pillers-title{
+    color: #0E0E0E;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.pil-sub-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-weight: 600;
+    font-size: 20px;
+
+
+}
+.pil-descrip{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 300;
+    text-align: justify;
+    text-align: center;
+}
+.pillers{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    border-top: 32px;
+    margin-bottom: 80px; 
+    
+}
+.pillers-bd{
+    background-color: #FFFFFF;
+    
+    border-radius: 16px;
+    justify-content: space-around;
+   
+    padding: 24px;
+    border: 64px 64px;
+   
+   
+}
+/* Vission of future part style */
+.vision-title{
+    color: rgba(14, 14, 14, 1);
+    font-size: 40px;
+    font-weight: 700;
+}
+.vision-goal{
+    color: rgba(14, 14, 14, 0.7);
+    font-weight: 300;
+    font-size: 16px;
+    
+}
+.vision-of-future{
+    display: flex;
+    gap: 24px;
+    margin-bottom: 32px;
+    
+
+}
+.vis-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+}
+.vision-box{
+    
+    border-radius: 16px;
+    gap: 24px;
+    padding: 32px 32px;
+    max-width:  450px;
+    
+    
+    
+}
+.vision-1{
+    background-color: rgba(84, 144, 245, 0.2);
+    
+
+} 
+.vision2{
+      
+    background-color:  rgba(198, 228, 214, 1);
+}
+.vision3{
+   
+    background-color: #F7EBCF;
+}
+/* vision button style */
+.btn1{
+    background-color: rgba(84, 144, 245, 1);
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 20px 11px;
+    width: 122px;
+    border-radius: 8px;
+    border: none;
+
+}
+.btn2{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 16px;
+     background-color: #09A15C;
+    padding: 20px 11px; 
+    width: 122px;
+    border-radius: 8px;
+    border: none;
+}
+
+.btn3{
+    color: #FFFFFF; 
+    font-weight: 500;
+    font-size: 16px; 
+    background-color:#FFC239;
+    padding: 20px 11px;
+    width: 122px;
+    border-radius: 8px;
+    border: none;
+
+}
+.yunus-speech{
+    background-color: #FFFFFF;
+    padding: 24px 48px;
+    border-radius: 16px;
+    box-shadow: #8a8989;
+    margin-bottom: 80px;
+}
+
+
+
