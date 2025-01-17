@@ -64,7 +64,7 @@ nav{
     margin-bottom: 24px;
     margin-right: 24px;
     margin-top: 16px;
-    max-width: 622px;
+    max-width: 622;
     
 }
 .banner{
@@ -87,8 +87,8 @@ nav{
 .hero{
     
     padding-right: 59.5px;
-    width: 475px;
-    height: 400px;
+    width: 475;
+    height: 400;
     margin-left: 24px;
     
 }
@@ -161,7 +161,7 @@ nav{
     border-radius: 16px;
     gap: 24px;
     padding: 32px 32px;
-    max-width:  450px;
+    max-width:  450;
     
     
     
@@ -220,6 +220,89 @@ nav{
     box-shadow: #8a8989;
     margin-bottom: 80px;
 }
+/* opinion table */
+.opinion{
+    margin-bottom: 80px;
+}
+.opinion-table{
+    padding: 32px 32px;
+    background-color: #FFFFFF;
+}
+.table-heading{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6; 
+    padding: 24px 24px;      
+}
+.tbl-heading-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+/* news style */
+.sat-news{
+    margin-bottom: 80px;
+}
+.sat-img{
+    border-radius: 24px;
+}
+.news{
+    margin: 22px;
+}
+.new-sat{
+    font-size: 32px;
+    font-weight: 700;
+
+}
+.news-bd{
+    display: flex;
+    gap: 32px;
+    padding: 48px 48px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    margin-bottom: 24px;
+    
+}
+.sat-btn{
+    padding: 26px 13px;
+    max-width: 139px;
+}
+.satelite{
+
+}
+/* donte part  */
+.donate-title{
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+.donate-tex{
+    text-align: center;
+}
+.donate-box{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+       
+}
+.don-back{
+    background-color:#FFFFFF ;
+}
+.money{
+    
+    padding: 40px 40px;
+    border-radius: 16px;
+    max-width: 240;
+
+}
+.amount-box{
+    background-color: #FFFFFF;
+    padding: 40px 20px;
+    border: none;
+    max-width: 1032;
+    text-align: center;
+    
+}
+
 
 
 
