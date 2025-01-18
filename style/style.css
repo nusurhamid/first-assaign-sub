@@ -324,6 +324,9 @@ nav{
     margin-top: 32px;
 }
 /* subscribe part */
+.sub-box{
+    padding: 100px 80px;
+}
 .Subscribe{
     display:flex;
     gap: none;
@@ -342,17 +345,24 @@ nav{
     padding: 40px 18px;
     font-size: 16px;
     border-top-left-radius: 16px;
-    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 16px;
     border: none;
 }
 .last{
     padding: 160px 50px;
     background-color: #FFFFFF;
     text-align: center;
+    
 
 }
 .icon{
     display: flex;
+    margin-top: 32px;
+    gap: 23px;
+   
+}
+.img-ali{
+    align-items: center;
 }
 
 
